@@ -1,0 +1,36 @@
+*{
+    padding: 0pc;
+}
+h1{
+    color: rgb(132, 37, 37);
+    text-align: center;
+    margin-left: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+body{
+    width: 100vw;
+    height: 120vh;
+    background-color: aquamarine;
+}
+.idcard{
+    height:300px;
+    width: 400px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 500px;
+margin-top: 300px;
+
+}
+.fa-solid{
+    color: rgb(243, 70, 13);
+   
+   
+}
+.fa-solid:hover{
+    color: rgb(97, 47, 30);
+   
+}
+img{
+    border-radius: 35px;
+}
